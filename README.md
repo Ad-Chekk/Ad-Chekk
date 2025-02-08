@@ -31,7 +31,7 @@
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ad-Chekk&show_icons=true&theme=radical&count_private=true)
 
 ###github streak :
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ad-ChekkE&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ad-Chekk&theme=radical)
 
 ### 🏆 GitHub Achievements:
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Ad-Chekk&theme=radical&no-frame=false&no-bg=true&margin-w=5)
