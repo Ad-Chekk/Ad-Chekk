@@ -27,6 +27,10 @@
 📫 **Let's Connect:**  
 💼 [LinkedIn](www.linkedin.com/in/aditya-chekkala-5a86b1278)  
 
+### 📊 GitHub Stats:
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ad-Chekk&show_icons=true&theme=radical&count_private=true)
+
+
 
 <!--📂 [Portfolio/Website] (if you have one)  
 📧 **Email:** aditya.chekkala@email.com  
