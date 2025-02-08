@@ -30,6 +30,20 @@
 ### 📊 GitHub Stats:
 ![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ad-Chekk&show_icons=true&theme=radical&count_private=true)
 
+###github streak :
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ad-ChekkE&theme=radical)
+
+### 🏆 GitHub Achievements:
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ad-Chekk&theme=radical&no-frame=false&no-bg=true&margin-w=5)
+
+### 🚀 Top Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ad-Chekk&layout=compact&theme=radical)
+
+### 🏅 Certifications & Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
 
 
 <!--📂 [Portfolio/Website] (if you have one)  
