@@ -1,5 +1,6 @@
 
 #                                                                    👋 Hi, I'm Aditya Chekkala  
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ad-Chekk&title=Profile%20Views)
 
 🎯 **Aspiring Data Engineer | Passionate about Web Scraping, Algorithms, and Scalable Systems**  
 
