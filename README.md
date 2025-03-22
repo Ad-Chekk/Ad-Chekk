@@ -1,6 +1,6 @@
 
 #                                                                    👋 Hi, I'm Aditya Chekkala  
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ad-Chekk&title=Profile%20Views)
+
 
 🎯 **Aspiring Data Engineer | Passionate about Web Scraping, Algorithms, and Scalable Systems**  
 
@@ -41,7 +41,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white)
 
-
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Ad-Chekk&title=Profile%20Views)
 <!--📂 [Portfolio/Website] (if you have one)  
 📧 **Email:** aditya.chekkala@email.com  
 
