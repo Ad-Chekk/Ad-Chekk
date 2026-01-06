@@ -2,7 +2,7 @@
 #                                                                    👋 Hi, I'm Aditya Chekkala  
 
 
-🎯 **Data Engineer **  
+🎯 *Data Engineer*  
 
 🔍 **About Me:**    
 - 🔢 I love **data-driven problem-solving**, with a focus on **big data, cybersecurity, and algorithms**.  
